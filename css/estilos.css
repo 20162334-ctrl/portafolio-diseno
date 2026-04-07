@@ -1,1 +1,16 @@
-
+/* Paleta de colores Inspirada en el INEM y Diseño Moderno */
+:root {
+ --azul-inem: #004a99;
+ --rojo-inem: #d32f2f;
+ --gris-fondo: #f8f9fa;
+ --blanco: #ffffff;
+ --texto: #333333;
+}
+body {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background-color: var(--gris-fondo);
+ color: var(--texto);
+ margin: 0;
+ padding: 0;
+ line-height: 1.6;
+}
