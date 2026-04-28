@@ -128,7 +128,7 @@ el fondo */
  margin: 0;
 }
 .enlaces a {
- color: #ffffff; /* Texto Blanco siempre visible */
+ color: #000000; /* Texto Blanco siempre visible */
  text - decoration: none;
  font - weight: bold;
  transition: 0.3s;
